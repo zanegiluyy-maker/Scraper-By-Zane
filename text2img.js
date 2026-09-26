@@ -1,3 +1,13 @@
+/**
+ * Name : Text2img Scraper
+ * Owner : Zane
+ * SL : https://whatsapp.com/channel/0029VbBe2Xt1t90gnNzfxc1F
+ * Base Web : https://image.pollinations.ai
+ * Type : Scraper
+ * Function : text2img
+ * Note : gambarnya kadang ga sesuai, error fix sendiri.
+ */
+
 const HOST = 'https://image.pollinations.ai'
 
 // Cap keras: di atas ini server melambat brutal (2048² > 120 detik).

@@ -5,7 +5,7 @@
  * Base Web : https://freefire.my.id/stalk
  * Type : Scraper
  * Function : nyari profil player Free Fire by UID + nickname
- * Note : Pakai handshake PoW resmi situs (token sekali pakai); search nickname sering maintenance.
+ * Note : error fix sndiri
  */
 import { createHash } from 'node:crypto'
 import { setTimeout as sleep } from 'node:timers/promises'

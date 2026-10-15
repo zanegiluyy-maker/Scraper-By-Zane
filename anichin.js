@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * Name : Anichin Scraper (home, list, search, detail, episode, schedule, resolve shortlink)
  * Owner : Zane
